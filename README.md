@@ -3,8 +3,8 @@
 The goal of this project was to create a human-cenetered solution tailored to individuals with dexterity limitations, such as having reduced arm, wrist hand or finger mobility.
 
 Included are:
-- **Detailed Engineering Drawings**
-- **CAD design of the final product**
+- **Detailed Engineering Drawing of final product**
+- **CAD design of the initial prototype**
 - **A picture of the final product**
 - **Design Document**
 

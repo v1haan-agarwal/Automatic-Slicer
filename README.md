@@ -18,8 +18,11 @@ This device's cutting mechanism utilizes a four-bar linkage to create the desire
 
 ## 🖼️ Project Gallery
 
-### 🔧 Drawings  
+### 🔧 Engineering Drawing  
 ![Drawing](slicer1.png)
+
+### 🔧 CAD Model  
+![Drawing](slicer3.png)
 
 ### 📸 Final Project Photo  
 ![Project Photo](slicer2.png)
